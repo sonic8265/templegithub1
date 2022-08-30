@@ -1,2 +1,1 @@
-# templegithub1
-i slapped will smith
+Hello I slapped Will Smith.
